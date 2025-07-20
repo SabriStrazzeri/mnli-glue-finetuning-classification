@@ -1,0 +1,33 @@
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.venv/
+*.egg-info/
+
+# VS Code settings
+.vscode/
+
+# Data files (optional)
+*.csv
+*.xlsx
+*.xls
+*.h5
+*.json
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
